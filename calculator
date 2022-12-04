@@ -41,8 +41,8 @@ int main()
         p("Moderate Intensity: %d - %d bpm \n", mod1, mod2);
     }
 
-        vig1 = (mhr * .77);
-        vig2 = (mhr * .93);
+    vig1 = (mhr * .77);
+    vig2 = (mhr * .93);
 
     if(num==2)
     {
